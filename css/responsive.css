@@ -1,0 +1,28 @@
+/* navbar  */
+@media (max-width: 750px) {
+
+    .navbar-right :nth-child(2) .nav-icon {
+        display: none;
+    }
+
+    .product-menu {
+        margin: 0 0 0 20px;
+    }
+    
+    .product-menu ul li{
+        margin: 5px 0;
+    }
+    
+    .product-menu ul li span{
+        margin-left: 20px;
+    }
+
+    #products{
+        margin: 0 8px;
+    }
+
+}
+
+@media (min-width: 767px) {
+    
+}
